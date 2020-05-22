@@ -1,7 +1,7 @@
 # What's That Letter!
 
 <p align="center">
- <img src="https://storage.googleapis.com/kagglesdsdata/datasets/3258/5337/amer_sign3.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1589218364&Signature=VIJaBTVJS6ti9J1X%2FSYc4Fza1CX5uM5WOVDRVZwqQNvgMhhafAUJArfuuQs%2FidGhnd%2Bf%2FsjINFDK2RLO9%2FG%2FqP0g8FnAWWjw21DDCYKqJFuOEMgukiR1QPeFznOTldq%2FpsZAO3aYPsjQLvKxhcEZ%2FNmvk%2BtKRuX8S5lcM8Aqtn86qIy6%2BbKrLbjoZ6oRVhudQbAl7MXgwcX6M1UxhWk1j9hu9WrMqe0X9%2BEdxBoHtF3YXRbd2omyJ894xDf9gKgGwa9bQrpY4omT9SNaAXzqB0bNIC%2F555v6G3hUFy01TNYwweStn4khB95uHfIVaovWV9fMXcZQIc%2BJAEsymVI7TQ%3D%3D" />
+ <img src="https://d.newsweek.com/en/full/1394686/asl-getty-images.jpg" />
 </p>
 
 <br />
